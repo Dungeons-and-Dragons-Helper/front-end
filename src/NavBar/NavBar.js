@@ -61,7 +61,7 @@ const StyledNav = Styled.div`
       }
     .userOptions {
       width: 25%;
-      border: 1px solid black;
+      border: 2px solid black;
       display: flex;
       flex-direction: row;
       justify-content: space-between;
