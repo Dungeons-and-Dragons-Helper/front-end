@@ -33,5 +33,22 @@ function NavBar() {
 export default NavBar;
 
 const StyledNav = Styled.div`
+  header {
+    display: flex;
+    .header-container {
+      display: flex;
+      flex-direction: row;
 
+    }
+    img {
+
+    }
+  }
+
+  nav {
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 `
