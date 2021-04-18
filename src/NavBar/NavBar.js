@@ -45,7 +45,6 @@ const StyledNav = Styled.div`
       flex-direction: row;
 
     }
-
     img {
 
     }
@@ -56,6 +55,5 @@ const StyledNav = Styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
   }
 `
